@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Data & models (usually too large for GitHub)
+*.h5
+*.pt
+*.pth
+*.pkl
+data/
+datasets/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if frontend)
+node_modules/
