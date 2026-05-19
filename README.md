@@ -33,25 +33,22 @@ This project presents a **multimodal deep learning system** that combines:
 ### Diagnostic Results & Multimodal Fusion Analysis
 <!-- INSERT SCREENSHOT: Diagnostic results page with pie chart and confidence scores -->
 ```
-<img width="1600" height="692" alt="WhatsApp Image 2026-05-05 at 9 11 19 PM (1)" src="https://github.com/user-attachments/assets/6ba9d0a5-141f-4897-be77-64dcc674aa5a" />
-<img width="1600" height="725" alt="WhatsApp Image 2026-05-05 at 9 11 20 PM" src="https://github.com/user-attachments/assets/fea2c50c-3230-4416-add0-c13915ab57a3" />
-
+c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.20 PM.jpeg
+c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.19 PM (1).jpeg
 
 ```
 
 ### Explainable AI — Grad-CAM Heatmap & 3D Localization
 <!-- INSERT SCREENSHOT: Grad-CAM heatmap overlaid on chest X-ray + 3D anatomical model -->
 ```
-c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.19 PM.jpeg
-c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.18 PM (1).jpeg
-
+![Grad-CAM Heatmap 1](Gradcam_Heatmap_1.jpeg)
+![Grad-CAM Heatmap 2](Gradcam_Heatmap_2.jpeg)
 ```
 
 ### Systemic Organ Risk Analysis
 <!-- INSERT SCREENSHOT: Organ risk dashboard with bar chart and risk timeline trend graph -->
 ```
-c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.18 PM.jpeg
-
+![Organ Risk Analysis](Organ_Risk_Analysis.jpeg)
 ```
 
 ---
