@@ -1,4 +1,4 @@
-# 🫁 Multimodal Respiratory AI
+# Multimodal Respiratory AI
 
 > A deep learning pipeline for respiratory disease prediction and systemic multi-organ risk assessment using cross-modal attention fusion.
 
@@ -9,34 +9,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project presents a **multimodal deep learning system** that combines:
-- 🩻 Chest X-ray images
-- 🧪 Lab test results (creatinine, ALT, AST, troponin, BNP, SpO₂, etc.)
-- 👤 Patient demographics (age, sex, BMI, smoking history)
+- Chest X-ray images
+- Lab test results (creatinine, ALT, AST, troponin, BNP, SpO₂, etc.)
+- Patient demographics (age, sex, BMI, smoking history)
 
 ...to simultaneously perform **three clinical tasks**:
 
 | Task | Output |
 |------|--------|
-| 🔬 Disease Classification | COPD, Pneumonia, Pulmonary Fibrosis, Pleural Effusion, Normal |
-| 📊 Severity Estimation | Mild / Moderate / Severe |
-| 🫀 Organ Risk Scoring | Heart, Kidney, Liver, Brain risk probabilities |
+| Disease Classification | COPD, Pneumonia, Pulmonary Fibrosis, Pleural Effusion, Normal |
+| Severity Estimation | Mild / Moderate / Severe |
+| Organ Risk Scoring | Heart, Kidney, Liver, Brain risk probabilities |
 
 **Results:** 91.3% disease classification accuracy · 0.87 mean AUROC across organs
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots below by replacing the placeholder text._
-
-### Clinical Input Panel
-<!-- INSERT SCREENSHOT: Clinical input form with patient data fields -->
-```
-[ Insert screenshot here: Clinical Input section ]
-```
+## Screenshots
 
 ### Diagnostic Results & Multimodal Fusion Analysis
 <!-- INSERT SCREENSHOT: Diagnostic results page with pie chart and confidence scores -->
@@ -64,7 +56,7 @@ This project presents a **multimodal deep learning system** that combines:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -103,7 +95,7 @@ This project presents a **multimodal deep learning system** that combines:
 
 ---
 
-## 🔬 Key Techniques
+## Key Techniques
 
 | Component | Method |
 |-----------|--------|
@@ -119,7 +111,7 @@ This project presents a **multimodal deep learning system** that combines:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 multimodal-respiratory-ai/
@@ -159,7 +151,7 @@ multimodal-respiratory-ai/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -211,7 +203,7 @@ python dashboard/app.py
 
 ---
 
-## 📊 Results
+## Results
 
 ### Disease Classification Performance
 
@@ -236,7 +228,7 @@ python dashboard/app.py
 
 ---
 
-## 🧪 Datasets
+## Datasets
 
 This project uses the following publicly available, de-identified medical databases:
 
@@ -247,33 +239,4 @@ This project uses the following publicly available, de-identified medical databa
 
 ---
 
-## 📄 Research Paper
-
-This project is accompanied by a published research paper:
-
-> **"A Multimodal Attention Framework for Respiratory Diagnosis and Multi-Organ Risk Assessment"**
-> Premanand Ghadekar, Ninad Bodade, Ansh Sharma, Shravani Divate, Saniya Nirmale, Hitanshi Meshram
-> Vishwakarma Institute of Technology, Pune, India
-
----
-
-## 👥 Team — Group 14
-
-| Name | Email |
-|------|-------|
-| Premanand Ghadekar (Guide) | premanand.ghadekar@vit.edu |
-| Ninad Bodade | ninad.bodade23@vit.edu |
-| Ansh Sharma | ansh.sharma23@vit.edu |
-| Shravani Divate | shravani.divate23@vit.edu |
-| Saniya Nirmale | saniya.nirmale23@vit.edu |
-| Hitanshi Meshram | hitanshi.meshram23@vit.edu |
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">Made with ❤️ at Vishwakarma Institute of Technology, Pune</p>
+<p align="center"></p>
