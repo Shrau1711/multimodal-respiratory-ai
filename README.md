@@ -33,21 +33,21 @@ This project presents a **multimodal deep learning system** that combines:
 ### Diagnostic Results & Multimodal Fusion Analysis
 <!-- INSERT SCREENSHOT: Diagnostic results page with pie chart and confidence scores -->
 
-![Diagnostic Results 1](Diagnostics_results_1.jpeg)
-![Diagnostic Results 2](Diagnostics_results_2.jpeg)
+![Diagnostic Results 1](screenshots/Diagnostics_results_1.jpeg)
+![Diagnostic Results 2](screenshots/Diagnostics_results_2.jpeg)
 
 
 ### Explainable AI — Grad-CAM Heatmap & 3D Localization
 <!-- INSERT SCREENSHOT: Grad-CAM heatmap overlaid on chest X-ray + 3D anatomical model -->
 
-![Grad-CAM Heatmap 1](Gradcam_Heatmap_1.jpeg)
-![Grad-CAM Heatmap 2](Gradcam_Heatmap_2.jpeg)
+![Grad-CAM Heatmap 1](screenshots/Gradcam_Heatmap_1.jpeg)
+![Grad-CAM Heatmap 2](screenshots/Gradcam_Heatmap_2.jpeg)
 
 
 ### Systemic Organ Risk Analysis
 <!-- INSERT SCREENSHOT: Organ risk dashboard with bar chart and risk timeline trend graph -->
 
-![Organ Risk Analysis](Organ_Risk_Analysis.jpeg)
+![Organ Risk Analysis](screenshots/Organ_Risk_Analysis.jpeg)
 
 
 ---
