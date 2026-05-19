@@ -33,8 +33,9 @@ This project presents a **multimodal deep learning system** that combines:
 ### Diagnostic Results & Multimodal Fusion Analysis
 <!-- INSERT SCREENSHOT: Diagnostic results page with pie chart and confidence scores -->
 ```
-c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.20 PM.jpeg
-c:\College\3rd Year\2nd Sem\DL\WhatsApp Image 2026-05-05 at 9.11.19 PM (1).jpeg
+<img width="1600" height="692" alt="WhatsApp Image 2026-05-05 at 9 11 19 PM (1)" src="https://github.com/user-attachments/assets/6ba9d0a5-141f-4897-be77-64dcc674aa5a" />
+<img width="1600" height="725" alt="WhatsApp Image 2026-05-05 at 9 11 20 PM" src="https://github.com/user-attachments/assets/fea2c50c-3230-4416-add0-c13915ab57a3" />
+
 
 ```
 
